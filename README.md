@@ -26,8 +26,7 @@ git
 ```
 
 ## Network details
-I used Cisco CSR1000v and Cisco XRv9000 in this network, as explained in
-the Globomantics background. Software versions are shown below.
+I used Cisco CSR1000v and Cisco XRv9000 in this network. Software versions are shown below.
 
 ```
 CSR1000v - Cisco IOS XE Software, Version 16.09.02
