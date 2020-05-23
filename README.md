@@ -1,5 +1,3 @@
-# Network-Automation
-
 # Course background information
 This file contains background information about the course, including
 configuration files and versions.
