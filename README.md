@@ -2,8 +2,6 @@
 This file contains background information about the course, including
 configuration files and versions.
 
-Please contact me on Twitter `@nickrusso42518` or in the course
-discussion with any questions you have.
 
 ## Development machine
 I used an Amazon Linux platform on EC2 for this course, but any Linux
